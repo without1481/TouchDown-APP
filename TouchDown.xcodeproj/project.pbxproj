@@ -41,6 +41,7 @@
 		C7920E942980587F003F9F46 /* RatingSizesDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7920E932980587F003F9F46 /* RatingSizesDetailView.swift */; };
 		C7920E9629805D9F003F9F46 /* QuantityFavouriteDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7920E9529805D9F003F9F46 /* QuantityFavouriteDetailView.swift */; };
 		C7920E9829805FB7003F9F46 /* AddToCartDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7920E9729805FB7003F9F46 /* AddToCartDetailView.swift */; };
+		C7920E9A29813D07003F9F46 /* Shop.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7920E9929813D07003F9F46 /* Shop.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -80,6 +81,7 @@
 		C7920E932980587F003F9F46 /* RatingSizesDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RatingSizesDetailView.swift; sourceTree = "<group>"; };
 		C7920E9529805D9F003F9F46 /* QuantityFavouriteDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuantityFavouriteDetailView.swift; sourceTree = "<group>"; };
 		C7920E9729805FB7003F9F46 /* AddToCartDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddToCartDetailView.swift; sourceTree = "<group>"; };
+		C7920E9929813D07003F9F46 /* Shop.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Shop.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -172,6 +174,7 @@
 			children = (
 				C7254859297B0B3F00F803CC /* Constant.swift */,
 				C7920E9129805627003F9F46 /* CustomShape.swift */,
+				C7920E9929813D07003F9F46 /* Shop.swift */,
 			);
 			path = Utility;
 			sourceTree = "<group>";
@@ -204,10 +207,10 @@
 			isa = PBXGroup;
 			children = (
 				C7254852297B088E00F803CC /* App */,
-				C7254857297B0A6400F803CC /* Utility */,
 				C7254856297B098800F803CC /* Model */,
 				C7254853297B096C00F803CC /* View */,
 				C7254849297B087C00F803CC /* Data */,
+				C7254857297B0A6400F803CC /* Utility */,
 				C7254858297B0A6C00F803CC /* Extension */,
 				C7254846297B073300F803CC /* Info.plist */,
 				C779C4EF297B04EB0081D530 /* Assets.xcassets */,
@@ -322,6 +325,7 @@
 				C70D776F297CA8E4008B66C1 /* CategoryItemView.swift in Sources */,
 				C7920E9229805627003F9F46 /* CustomShape.swift in Sources */,
 				C70D776B297C69BF008B66C1 /* FuturedTabView.swift in Sources */,
+				C7920E9A29813D07003F9F46 /* Shop.swift in Sources */,
 				C7920E84297EAEA3003F9F46 /* BrandModel.swift in Sources */,
 				C70D7765297C6556008B66C1 /* PlayerModel.swift in Sources */,
 				C7920E9629805D9F003F9F46 /* QuantityFavouriteDetailView.swift in Sources */,
